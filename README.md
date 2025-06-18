@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou Jorge Michael</h1>
+<h1>👋 Olá! Eu sou Jorge Michael</h1>
 
-<p align="center">
+<p>
   💻 Desenvolvedor em formação<br>
   Projetando soluções reais com HTML, CSS, JavaScript, TypeScript e React.<br>
   ⚙️ Git, GitHub e deploy com Vercel<br>
