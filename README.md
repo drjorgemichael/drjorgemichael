@@ -1,12 +1,19 @@
 <h1>👋 Olá! Eu sou Jorge Michael</h1>
 
 <p>
-  💻 Desenvolvedor em formação<br>
-  Projetando soluções reais com HTML, CSS, JavaScript, TypeScript e React.<br>
-  ⚙️ Git, GitHub e deploy com Vercel<br>
-  🧪 Estudando: Backend com Node.js, APIs e MongoDB<br>
-  🎯 Foco em criar interfaces funcionais e com propósito<br>
-  🔥 Apaixonado por tecnologia, criatividade e projetos com identidade forte
+  
+- 💻 Desenvolvedor em formação<br>
+
+- 📈 Projetando soluções reais com HTML, CSS, JavaScript, TypeScript e React.<br>
+
+- ⚙️ Git, GitHub e deploy com Vercel<br>
+
+- 🧪 Estudando: Backend com Node.js, APIs e MongoDB<br>
+
+- 🎯 Foco em criar interfaces funcionais e com propósito<br>
+
+- 🔥 Apaixonado por tecnologia, criatividade e projetos com identidade forte
+  
 </p>
 
 
