@@ -10,9 +10,9 @@
 
 - 🧪 Estudando: Backend com Node.js, APIs e MongoDB<br>
 
-- 🎯 Foco em criar interfaces funcionais e com propósito<br>
+- 🎯 Foco em criar interfaces funcionais<br>
 
-- 🔥 Apaixonado por tecnologia, criatividade e projetos com identidade forte
+- 🔥 Apaixonado por tecnologia
   
 </p>
 
