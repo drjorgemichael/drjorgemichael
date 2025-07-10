@@ -29,8 +29,8 @@
   
 ## ✨ Projetos em destaque
 
-### 🏹 [Formulário Samurais Airsoft](https://samuraisform.vercel.app)
-> Formulário temático militar/samurai com validações JS, layout responsivo e envio de dados via FormSubmit.
+### 🏹 [Formulário Recrutamento Equipe Samurais](https://samuraisform.vercel.app)
+> Formulário temático militar com validações JS, layout responsivo e envio de dados via FormSubmit.
 
 🔗 Repositório: [github.com/drjorgemichael/samuraisform](https://github.com/drjorgemichael/samuraisform)
 
@@ -44,5 +44,6 @@
 </div>
 
 <p align="center"><br><br>
-  ⚔️ "Disciplina é liberdade. O código é honra. A persistência é o caminho."
+  ⚔️ "O temor do Senhor é o princípio da sabedoria" (Provérbios 1:7)
+  "Confie ao Senhor as tuas obras, e teus planos serão estabelecidos" (Provérbios 16:3)
 </p>
