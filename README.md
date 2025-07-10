@@ -44,6 +44,6 @@
 </div>
 
 <p align="center"><br><br>
-  ⚔️ "O temor do Senhor é o princípio da sabedoria" (Provérbios 1:7)
+  ⚔️ "O temor do Senhor é o princípio da sabedoria" (Provérbios 1:7)<br>
   "Confie ao Senhor as tuas obras, e teus planos serão estabelecidos" (Provérbios 16:3)
 </p>
